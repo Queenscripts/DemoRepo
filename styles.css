@@ -1,0 +1,15 @@
+#login-section {
+  margin: 0 0 0 180px;
+}
+
+.nav {
+  color: white;
+  display: flex;
+  flex-direction: row;
+  align-items: center !important;
+  justify-content: space-evenly;
+}
+
+div, footer{
+  padding: 50px;
+}
